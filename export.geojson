@@ -1,0 +1,316 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-10-20T06:54:48Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306531163",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5300658,
+            -6.8569128
+          ],
+          [
+            107.5303119,
+            -6.857012
+          ],
+          [
+            107.5307526,
+            -6.8571897
+          ]
+        ]
+      },
+      "id": "way/306531163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306531164",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5299623,
+            -6.8571568
+          ],
+          [
+            107.5302019,
+            -6.8572583
+          ],
+          [
+            107.5306343,
+            -6.857452
+          ]
+        ]
+      },
+      "id": "way/306531164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306531166",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5298588,
+            -6.857401
+          ],
+          [
+            107.5304452,
+            -6.8576499
+          ]
+        ]
+      },
+      "id": "way/306531166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306531169",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5309666,
+            -6.8569574
+          ],
+          [
+            107.5311168,
+            -6.8570331
+          ],
+          [
+            107.5312713,
+            -6.8570993
+          ],
+          [
+            107.5313511,
+            -6.8571359
+          ],
+          [
+            107.5318323,
+            -6.8573364
+          ]
+        ]
+      },
+      "id": "way/306531169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306531175",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5304452,
+            -6.8576499
+          ],
+          [
+            107.5304756,
+            -6.8576667
+          ],
+          [
+            107.5305077,
+            -6.857672
+          ],
+          [
+            107.5305212,
+            -6.8576707
+          ],
+          [
+            107.5305346,
+            -6.85766
+          ],
+          [
+            107.5305499,
+            -6.8576293
+          ],
+          [
+            107.5306343,
+            -6.857452
+          ],
+          [
+            107.5307526,
+            -6.8571897
+          ],
+          [
+            107.5308725,
+            -6.8569238
+          ]
+        ]
+      },
+      "id": "way/306531175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306531177",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5301849,
+            -6.856632
+          ],
+          [
+            107.5300658,
+            -6.8569128
+          ],
+          [
+            107.5299623,
+            -6.8571568
+          ],
+          [
+            107.5298588,
+            -6.857401
+          ],
+          [
+            107.5297581,
+            -6.8576027
+          ],
+          [
+            107.5297288,
+            -6.8576732
+          ],
+          [
+            107.5297058,
+            -6.8577339
+          ],
+          [
+            107.5296006,
+            -6.8579763
+          ],
+          [
+            107.529479,
+            -6.8582392
+          ],
+          [
+            107.5294239,
+            -6.8583584
+          ]
+        ]
+      },
+      "id": "way/306531177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306531178",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5294479,
+            -6.8575573
+          ],
+          [
+            107.5297288,
+            -6.8576732
+          ],
+          [
+            107.5305271,
+            -6.8580318
+          ],
+          [
+            107.5306317,
+            -6.8580781
+          ]
+        ]
+      },
+      "id": "way/306531178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306531343",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5307047,
+            -6.8580399
+          ],
+          [
+            107.5308065,
+            -6.8577705
+          ],
+          [
+            107.5310022,
+            -6.8573055
+          ],
+          [
+            107.5311168,
+            -6.8570331
+          ]
+        ]
+      },
+      "id": "way/306531343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/701537433",
+        "highway": "residential",
+        "import": "yes",
+        "source": "digitalglobe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5302019,
+            -6.8572583
+          ],
+          [
+            107.5303119,
+            -6.857012
+          ]
+        ]
+      },
+      "id": "way/701537433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/774934679",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5310737,
+            -6.8578737
+          ],
+          [
+            107.5308065,
+            -6.8577705
+          ]
+        ]
+      },
+      "id": "way/774934679"
+    }
+  ]
+}
