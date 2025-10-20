@@ -1,5 +1,9 @@
 # 🗺️ GeoJSON – Data Jalan Wilayah Cipageran 2
 
+
+<img width="1907" height="913" alt="image" src="https://github.com/user-attachments/assets/7abbc5de-9301-4721-aa76-256971168cb0" />
+
+
 ## 📘 Deskripsi
 Proyek ini berisi data **peta jalan** yang diambil dari wilayah **Cipageran 2**, menggunakan format **GeoJSON**.  
 Data dikumpulkan melalui situs [geojson.io](https://geojson.io/) dengan bantuan sumber peta dari **OpenStreetMap**.
